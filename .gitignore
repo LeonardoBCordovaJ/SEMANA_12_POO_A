@@ -1,0 +1,10 @@
+# Configuracion de PyCharm
+.idea/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
